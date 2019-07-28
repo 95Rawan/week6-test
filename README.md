@@ -1,3 +1,6 @@
+# website link:
+https://week6-test.herokuapp.com/
+
 # week6-test
 
 This project has a server, front-end and a database, the server and front-end have been set up for you.
